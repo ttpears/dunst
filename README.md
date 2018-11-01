@@ -1,1 +1,3 @@
 # dunst
+
+Minimalistic dunst notifications
